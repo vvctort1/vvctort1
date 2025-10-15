@@ -1,11 +1,13 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9F9BDB&height=120&section=header"/>
 <div align = "center">
   
-### Hi there 👋
-### Welcome to my profile
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arvo&size=30&pause=10000&color=9F9BDB&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+profile!;I+am+a+software+engineering+student)](https://git.io/typing-svg)
  🌱
   ##
-  
+
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9F9BDB&height=120&section=footer"/>
 <!--
 **vvctort1/vvctort1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
